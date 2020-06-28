@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">post pc ex 6</string>
+
+    <string name="loc_required">This application requires location permissions</string>
+    <string name="sms_required">This application requires SMS permissions in order to run</string>
+
+
+
+
+
+</resources>
